@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Real Bout Fatal Fury 2
+Comment=Native static recompilation of Real Bout Fatal Fury 2 (Neo Geo)
+Exec=RBFF2
+Icon=rbff2
+Categories=Game;
+Terminal=false
+X-AppImage-Name=Real Bout Fatal Fury 2

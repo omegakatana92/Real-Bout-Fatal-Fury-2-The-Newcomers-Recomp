@@ -1,0 +1,9 @@
+# Insert a coin when the title screen is up (appears around frame 8400),
+# press Start, advance the two HOW TO PLAY pages, then confirm the default
+# character on PLAYER SELECT.  Frame numbers are 59.19 Hz frames from
+# power-on and were measured with --headless --screenshot.
+8500 coin
+8800 start
+9600 a
+10400 a
+11200 a
